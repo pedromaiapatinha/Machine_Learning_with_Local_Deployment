@@ -20,7 +20,13 @@ pip install -r requirements.txt
 
 ## Directory Tree 
 ```
-├── OpenCV Play Dino Game.py
+├── models
+├── static
+├── templates
+├── Titanic Survivor Prediction Project.ipynb
+├── app.py
+├── titanic_test.csv
+├── titanic_train.csv
 └── README.md
 ```
 

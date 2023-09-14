@@ -7,7 +7,7 @@
   * [Technologies Used](#technologies-used)
 
 ## Overview
-The goal of this project was to explore Flask and build a static website to deploy the model created.
+The goal of this project was to explore Flask and build a static website to deploy the created model.
 Once the setup was done, predictions could be done based on input data.
 
 ![Titatic Survivor Prediction](https://github.com/pedromaiapatinha/Machine_Learning_with_Local_Deployment/assets/64651800/3fce1d91-9eda-4b76-8546-426208683e2a)
